@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+env/
+data/SUNRGBD
+data/SUNRGBDtoolbox
+data/labels_37
+models/
