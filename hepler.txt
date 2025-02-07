@@ -1,6 +1,0 @@
-https://www.kaggle.com/code/yousefalbasel/generating-interior-design-dcgan-wgan/notebook
-
-https://github.com/CubiCasa/CubiCasa5k
-
-
-https://github.com/ankurhanda/sunrgbd-meta-data/tree/master?tab=readme-ov-file
